@@ -2,9 +2,9 @@
 
 ## Table of Contents 
 
-- [Business Questions]() 
-- [Datasets]()
-- [Solution]()
+- [Business Questions](https://github.com/mukaruernest/Health-Analytics-Case-Study-/tree/master#business-questions) 
+- [Datasets](https://github.com/mukaruernest/Health-Analytics-Case-Study-/tree/master#dataset)
+- [Solution](https://github.com/mukaruernest/Health-Analytics-Case-Study-/tree/master#solutions)
 
 ## Business Questions
 
